@@ -140,16 +140,7 @@ class _HomePageState extends State<HomePage> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Container(
-                width: 100,
-                height: 100,
-                decoration: BoxDecoration(
-                  image: DecorationImage(
-                      image: NetworkImage(
-                          "https://i.ytimg.com/vi/oVFPW0r4jWk/hqdefault.jpg")),
-                ),
-              ),
-              SizedBox(height: 5,),
+              
               TextWidget("Wikipedia Search",18),
             ],
           ),
