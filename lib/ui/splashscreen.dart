@@ -49,7 +49,7 @@ class _SplashScreenState extends State<SplashScreen> {
             color: Colors.black,
             image: DecorationImage(
                 image: NetworkImage(
-                    "https://i.ytimg.com/vi/oVFPW0r4jWk/hqdefault.jpg")),
+                    "https://assets2.lottiefiles.com/packages/lf20_69HH48.json")),
           ),
         ),
       ),

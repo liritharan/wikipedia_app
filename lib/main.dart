@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:wikipedia_app/ui/splashscreen.dart';
 
 void main() {
   runApp(MyApp());
@@ -20,6 +21,7 @@ class MyApp extends StatelessWidget {
               brightness: Brightness.light
           )
       ),
+
       home:SplashScreen(),
     );
   }
