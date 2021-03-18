@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:wikipedia_app/ui/splashscreen.dart';
 
-void main() {
+void main()  {
+
   runApp(MyApp());
 }
 

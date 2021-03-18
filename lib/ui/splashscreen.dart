@@ -48,9 +48,8 @@ class _SplashScreenState extends State<SplashScreen> {
           decoration: BoxDecoration(
             color: Colors.black,
             image: DecorationImage(
-                image: NetworkImage(
-                    "https://assets2.lottiefiles.com/packages/lf20_69HH48.json")),
-          ),
+              image:NetworkImage(
+                  "https://i.ytimg.com/vi/oVFPW0r4jWk/hqdefault.jpg"),),)
         ),
       ),
     );
